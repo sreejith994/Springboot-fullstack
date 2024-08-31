@@ -6,6 +6,8 @@ target/
 **/target/
 **/node_modules
 **/.DS_store
+.idea/
+.mvn/
 ### STS ###
 .apt_generated
 .classpath
